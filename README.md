@@ -46,8 +46,12 @@ less important but still worth mentioning projects:
 # how to reach me
 
 on X, @andreiatdev
+
 on discord, `[REDACTED]`
-on email, `[REDACTED]` (TODO: provide one in case i do professional work)
+
+on email, `[REDACTED]` (TODO: provide one in case i ever do professional work)
+
+ALL LOWERCASE!!!
 
 <!--
 **qaptivator/qaptivator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
