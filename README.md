@@ -30,7 +30,7 @@ less important but still worth mentioning projects:
 - [everyexport](https://modrinth.com/mod/everyexport) -- simple fabric minecraft mod to export all item and recipe data from the game. useful if you're an advanced tech player in mc, i guess.
 - [circloO-patcher](https://github.com/DT-is-not-available/circloO-patcher) -- modding tool for aforementioned circloO. this wasn't started by me but by *DT*. i helped out in some parts and tried polishing it up to a modest modding framework: it kind of worked but it was very uncomfortable to use. now it's pretty much scrapped because DT moved on from circloO (and i also did that), and doing modding for such a small game where only ~5 people ever cared about it is just pointless.
 
-*i also like cooking*
+*i also like cooking food*
 
 # projects i am currently working on
 
