@@ -8,12 +8,6 @@ other languages i coded in: python, java (ugh), C, primevue (im trying out shadc
 
 languages i would love to try: svelte, rust, ruby.
 
-# history
-
-starting as a child, i learned construct. i scratched the surface of scratch but didn't go far there. after some time in construct i moved on to UNITY. after around a year of courses, i maybe made 2-3 untitled games. many were unfinished though. then i attempted hosting minecraft servers, then i finally got to frontend. started with vue (nuxt) just because it seemed the most comfortable. after years of practice and countless projects, im *starting* to learn backend.
-
-fun fact: i used q in my username instead of c because the username with c was taken.
-
 # projects i made
 
 - [**plainimg2**](https://github.com/qaptivator/plainimg2) -- simple but gets-the-job-done image viewer which is very lightweight, images take up your entire screen AND you can use this to pin/place images over your screen! **(personally, i use this every single day)**
@@ -42,6 +36,12 @@ less important but still worth mentioning projects:
 1. backend
 2. marketing/entrepreneurship
 3. sociability
+
+# history
+
+starting as a child, i learned construct. i scratched the surface of scratch but didn't go far there. after some time in construct i moved on to UNITY. after around a year of courses, i maybe made 2-3 untitled games. many were unfinished though. then i attempted hosting minecraft servers, then i finally got to frontend. started with vue (nuxt) just because it seemed the most comfortable. after years of practice and countless projects, im *starting* to learn backend.
+
+fun fact: i used q in my username instead of c because the username with c was taken. sometimes i also use "captivater" if "captivator" is taken.
 
 # how to reach me
 
