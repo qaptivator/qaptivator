@@ -10,7 +10,9 @@ languages i would love to try: svelte, rust, ruby.
 
 # projects i made
 
+![plainIMG banner](assets/plainIMG_banner.png)
 - [**plainimg2**](https://github.com/qaptivator/plainimg2) -- simple but gets-the-job-done image viewer which is very lightweight, images take up your entire screen AND you can use this to pin/place images over your screen! **(personally, i use this every single day)**
+- 
 - **smsg** -- sms api gateway android app which is used to recieve sms on your phone's sim, and send it over to your server, basically bypassing all the sms provider fluff like Twillio. allows for two way communication too using a message queue and polling. this app is also used by at least **2 businesses**. the code is kept private for now, and i don't plan on uploading this to google play due to strict rules.
 - [**cavecrawler-mapper**](https://qaptivator.github.io/cavecrawler-mapper/) -- shows the current path to cavecrawler wood through the tropics maze in the roblox game Lumber Tycoon 2. *likely my most viral project yet because many people in the LT2 Wiki use it.* this is a collab with Fizzy btw.
 - [**domain-stuff**](https://qaptivator.github.io/domain-stuff/) -- my personal website where i put many useful tools. started as a fast domain availability checker, it grew into just me putting there whatever seems useful enough but most websites which have this are laggy, old and have many ads. no ads here! i thought about putting a blog there too and turning it into my own personal website, but i will buy a different domain for that... and make it look unique or something.
