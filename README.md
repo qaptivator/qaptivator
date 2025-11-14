@@ -8,6 +8,16 @@ other languages i coded in: python, java (ugh), C, primevue and shadcn-vue, bf, 
 
 languages i would love to try and later learn: svelte, rust, ruby, solidity.
 
+<!-- align="middle" https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md -->
+<p float="left">
+  <img src="assets/nuxt-icon.svg" width="100" />
+  <img src="assets/vue-icon.png" width="100" />
+  <img src="assets/typescript-icon.png" width="100" />
+  <!-- <img src="assets/tailwindcss-icon.png" width="100" /> -->
+  <img src="assets/moleculer-icon.png" width="100" />
+</p>
+
+
 # projects i made
 
 ![plainIMG banner](assets/plainIMG_banner.png)
