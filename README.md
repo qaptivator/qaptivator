@@ -16,7 +16,19 @@ languages i would love to try: svelte, rust, ruby.
 ---
 
 ![Cavecrawler Mapper banner](assets/cavecrawler-mapper_banner.png)
-- [**cavecrawler-mapper**](https://qaptivator.github.io/cavecrawler-mapper/) -- shows the current path to cavecrawler wood through the tropics maze in the roblox game Lumber Tycoon 2. *likely my most viral project yet because many people in the LT2 Wiki use it.* this is a collab with Fizzy btw.
+[**cavecrawler-mapper**](https://qaptivator.github.io/cavecrawler-mapper/) -- shows the current path to cavecrawler wood through the tropics maze in the roblox game Lumber Tycoon 2. *likely my most viral project yet because many people in the LT2 Wiki use it.* this is a collab with Fizzy btw.
+
+---
+
+![Convenotes banner](assets/convenotes_banner.png)
+[**Convenotes**]() -- drop in your content, ask anything, and get clean, usable outputs fast. as well as a very flexible knowledge base, fitting for many types of people. my ai saas i have been working on for over a year. WORK IN PROGRESS. this is my greatest project so far and i want to finish it at least by end of 2025. it will also serve for a lot of audiences so i can't describe it in full detail.
+
+main pitch i am using for the main audience: *Turn your meetings into clear, actionable tasks.*<br />
+target audiences:
+- entrepreneurs, startup founders, remote workers (record meetings, get tasks and summarizations)
+- dropshippers, e-commerce people (copy product info from one shop to your shop, with a browser extension, keep track of all your product info)
+- students, learners (record lectures, or upload youtube videos and other material, then ask questions and summarize into flashcards or mindmaps)
+- power users, tech-savvy people like programmers (general knowledge base, keep track of every day life, store information and later retrieve with ai, organize things with tags and folders, flexibility)
 
 ---
 
