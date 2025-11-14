@@ -26,10 +26,12 @@ languages i would love to try and later learn: svelte, rust, ruby, solidity.
 main pitch i am using for the main audience: *Turn your meetings into clear, actionable tasks.*<br />
 <details>
 <summary>target audiences</summary>
+  
 - entrepreneurs, startup founders, remote workers (record meetings, get tasks and summarizations)
 - dropshippers, e-commerce people (copy product info from one shop to your shop, with a browser extension, keep track of all your product info)
 - students, learners (record lectures, or upload youtube videos and other material, then ask questions and summarize into flashcards or mindmaps)
 - power users, tech-savvy people like programmers (general knowledge base, keep track of every day life, store information and later retrieve with ai, organize things with tags and folders, flexibility)
+
 </details>
 
 ---
