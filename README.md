@@ -4,7 +4,7 @@ my name is captivator, i am a programmer with 4 years of experience in frontend,
 
 languages i know very well and adore: vue (nuxt), tailwindcss, javascript/typescript, blender (the 3d making one), C#, moleculer (microservices, still learning), nuxt ui.
 
-other languages i coded in: python, java (ugh), C, primevue and shadcn-vue, bf, cpu assembly in minecraft redstone(?) and logisim, capacitorjs.
+other languages i coded in: python, lua/luau (roblos studio), C, java (ugh), discord.js, primevue and shadcn-vue, bf, cpu assembly in minecraft redstone(?) and logisim, capacitorjs.
 
 languages i would love to try and later learn: svelte, rust, ruby, solidity.
 
