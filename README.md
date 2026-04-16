@@ -96,7 +96,7 @@ fun fact: i used q in my username instead of c because the username with c was t
 
 on X/Twitter, @andreiatdev
 
-on Discord, `[REDACTED]`
+on Discord, captivator
 
 on email, `[REDACTED]` (TODO: provide one in case i ever do professional work)
 
