@@ -60,7 +60,7 @@ this is my dream  game, it is and will be in development for a long time, and it
 
 ---
 
-- **smsg** -- sms api gateway android app which is used to recieve sms on your phone's sim, and send it over to your server, basically bypassing all the sms provider fluff like Twillio. allows for two way communication too using a message queue and polling. this app is also used by at least **2 businesses**. the code is kept private for now, and i don't plan on uploading this to google play due to strict rules.
+- [**smsg**](https://github.com/qaptivator/smsg) -- sms api gateway android app which is used to recieve sms on your phone's sim, and send it over to your server, basically bypassing all the sms provider fluff like Twillio. allows for two way communication too using a message queue and polling. this app is also used by at least **2 businesses**. the code is kept private for now, and i don't plan on uploading this to google play due to strict rules.
 - [**domain-stuff**](https://qaptivator.github.io/domain-stuff/) -- my personal website where i put many useful tools. started as a fast domain availability checker, it grew into just me putting there whatever seems useful enough but most websites which have this are laggy, old and have many ads. no ads here! i thought about putting a blog there too and turning it into my own personal website, but i will buy a different domain for that... and make it look unique or something.
 
 (as you can see, most of these projects are purely utilitarian. i struggle at making fun things)
