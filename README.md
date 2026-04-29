@@ -1,21 +1,36 @@
 # hi
 
-my name is captivator, i am a developer with 4 years of experience in frontend, but i like experimenting too. ♂️ (he/him)
+my name is **captivator**, a software engineer with 4 years of experience in frontend and a growing focus on full-stack architecture. he/him.
 
-languages i know very well and adore: vue (nuxt), tailwindcss, javascript/typescript, blender (the 3d making one), C#, moleculer (microservices, still learning), nuxt ui.
+i focus on building lightweight, utilitarian software that solves specific problems with minimal friction. whether it's optimizing a website for users, creating good developer environments, or integrating AI into productivity tools, i aim for high speed, comfort and reliability.
 
-other languages i coded in: python, lua/luau (roblox studio), C, java (ugh), discord.js, primevue and shadcn-vue, bf, cpu assembly in minecraft redstone(?) and logisim, capacitorjs.
-
-languages i would love to try and later learn: svelte, rust, ruby, solidity.
-
-<!-- align="middle" https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md -->
-<p float="left">
-  <img src="assets/nuxt-icon.svg" width="100" />
-  <img src="assets/vue-icon.png" width="100" />
-  <img src="assets/typescript-icon.png" width="100" />
-  <!-- <img src="assets/tailwindcss-icon.png" width="100" /> -->
-  <img src="assets/moleculer-icon.png" width="100" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/nuxt-icon.svg" width="100" />
+      </td>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/vue-icon.png" width="100" />
+      </td>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/typescript-icon.png" width="100" />
+      </td>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/tailwindcss-icon.png" width="100" />
+      </td>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/moleculer-icon.png" width="100" />
+      </td>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/mongodb-icon.png" width="100" />
+      </td>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/capacitorjs-icon.png" width="70" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 # projects i made
@@ -61,7 +76,13 @@ less important but still worth mentioning projects:
 - [everyexport](https://modrinth.com/mod/everyexport) -- simple fabric minecraft mod to export all item and recipe data from the game. useful if you're an advanced tech player in mc, i guess. here, i also trained my java/kotlin knowledge.
 - [circloO-patcher](https://github.com/DT-is-not-available/circloO-patcher) -- modding tool for aforementioned circloO. this wasn't started by me but by *DT*. i helped out in some parts and tried polishing it up to a modest modding framework: it kind of worked but it was very uncomfortable to use. now it's pretty much scrapped because DT moved on from circloO (and i also did that), and doing modding for such a small game where only ~5 people ever cared about it is just pointless.
 
-*i also like cooking food*
+# programming languages
+
+languages i know very well and adore: vue (nuxt), tailwindcss, javascript/typescript, blender (the 3d making one), C#, moleculer (microservices, still learning), nuxt ui.
+
+other languages i coded in: python, lua/luau (roblox studio), C, java (minecraft mods), discord.js, primevue and shadcn-vue, bf, cpu assembly in minecraft redstone(?) and logisim, capacitorjs.
+
+languages i would love to try and later learn: svelte, rust, ruby, solidity.
 
 # projects i am currently working on
 
@@ -80,6 +101,8 @@ starting as a child, i learned construct. i scratched the surface of scratch but
 
 fun fact: i used q in my username instead of c because the username with c was taken. sometimes i also use "captivater" if "captivator" is taken.
 
+*i also like cooking food*
+
 # how to reach me
 
 on X/Twitter, @andreiatdev
@@ -88,7 +111,20 @@ on Discord, captivator
 
 on email, `[REDACTED]` (TODO: provide one in case i ever do professional work)
 
-ALL LOWERCASE!!!
+<sup><sub>ALL LOWERCASE!!!</sub></sup>
+
+<!-- align="middle" https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md -->
+<!--<p float="left" align="center">
+  <img src="assets/nuxt-icon.svg" width="100" hspace="0"/>
+  <img src="assets/vue-icon.png" width="100" hspace="5"/>
+  <img src="assets/typescript-icon.png" width="100" />
+  <img src="assets/tailwindcss-icon.png" width="100" />
+  <img src="assets/moleculer-icon.png" width="100" />
+  <img src="assets/mongodb-icon.png" width="100" hspace="0"/>
+  <img src="assets/capacitorjs-icon.png" width="100" />
+</p>-->
+
+<!--i prefer tools that stay out of the way and let the core logic do the heavy lifting, ensuring that every project is both functional and efficient.-->
 
 <!--
 **qaptivator/qaptivator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
