@@ -20,8 +20,8 @@ languages i would love to try and later learn: svelte, rust, ruby, solidity.
 
 # projects i made
 
-![plainIMG banner](assets/plainIMG_banner.png)
-[**plainimg2**](https://github.com/qaptivator/plainimg2) -- simple but gets-the-job-done image viewer which is very lightweight, images take up your entire screen AND you can use this to pin/place images over your screen! **(personally, i use this every single day)**
+![Convenotes banner](assets/convenotes_banner.png)
+[**Convenotes**](https://convenotes.com) -- **The zero-friction CRM that lives in your chat.** originally started as a complex web knowledge base, i pivoted the architecture after two business schools (MindCraft) to solve real friction for entrepreneurs. it features AI-driven message processing, a text-based knowledge base, and a task management system with automated reminders via Agenda, alongside contanct management to grow your network. the repository is available [here](https://github.com/qaptivator/convenotes-telegram).
 
 ---
 
@@ -30,21 +30,8 @@ languages i would love to try and later learn: svelte, rust, ruby, solidity.
 
 ---
 
-![Convenotes banner](assets/convenotes_banner.png)
-[**Convenotes**](https://convenotes.com) -- drop in your content, ask anything, and get clean, usable outputs fast. as well as a very flexible knowledge base, fitting for many types of people. my ai saas i have been working on for over a year. this is my greatest project so far and i want to finish it at least by end of 2025. it will also serve for a lot of audiences so i can't describe it in full detail.
-
-main pitch i am using for the main audience: *Turn your meetings into clear, actionable tasks.*<br />
-<details>
-<summary>target audiences</summary>
-  
-- entrepreneurs, startup founders, remote workers (record meetings, get tasks and summarizations)
-- dropshippers, e-commerce people (copy product info from one shop to your shop, with a browser extension, keep track of all your product info)
-- students, learners (record lectures, or upload youtube videos and other material, then ask questions and summarize into flashcards or mindmaps)
-- power users, tech-savvy people like programmers (general knowledge base, keep track of every day life, store information and later retrieve with ai, organize things with tags and folders, flexibility)
-
-</details>
-
-**update:** i did actually finish it! somewhat. the landing is available at convenotes.com, and the app itself is a telegram bot now (`@convenotes_bot`). check it out!
+![plainIMG banner](assets/plainIMG_banner.png)
+[**plainimg2**](https://github.com/qaptivator/plainimg2) -- simple but gets-the-job-done image viewer which is very lightweight, images take up your entire screen AND you can use this to pin/place images over your screen! **(personally, i use this every single day)**
 
 ---
 
